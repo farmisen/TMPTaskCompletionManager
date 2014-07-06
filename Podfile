@@ -1,6 +1,6 @@
 # Podfile
 
-platform :ios, '6.1'
+platform :ios, '5.1'
 
 target :TMPTaskCompletionManagerTests do
   pod 'Kiwi/XCTest', '~> 2.2.3'
